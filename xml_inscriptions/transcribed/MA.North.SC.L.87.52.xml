@@ -133,6 +133,8 @@
       <change when="2020-10-20" who="Scott J. DiGiulio">Relocated letter dimensions to proper place</change><change when="2020-10-20" who="Scott J. DiGiulio">Relocated letter dimensions to proper place</change><change when="2021-02-23" who="Elli Mylonas">Change impressed.inscribed.carved to inscribed</change>
          <change when="2022-02-15" who="Sophia Papandonatou">edited metadata and transcription,
             updated SC link, added translation</change>
+         <change when="2022-07-27" who="Colin Olson">Added information to the commentary about the
+            item's current location.</change>
 </revisionDesc>
    </teiHeader>
    <!--facsimile element goes here-->
@@ -171,6 +173,7 @@
         
                 <div type="commentary">
                     <p>Interpuncts between each word.</p>
+                   <p>Last reported as being housed in the "Caverno Room" on the third floor of the Nielson Library</p>
                 </div>
             
         

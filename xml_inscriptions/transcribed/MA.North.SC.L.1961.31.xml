@@ -115,6 +115,8 @@
          <change when="2017-03-16" who="Scott J. DiGiulio">Removed NoImageAvailable.jpg placeholder</change>
       <change when="2021-02-23" who="Elli Mylonas">Change impressed.inscribed to inscribed</change>
          <change when="2022-02-23" who="Sophia Papandonatou">added link</change>
+         <change when="2022-07-27" who="Colin Olson">Added information to the commentary about the
+            item's current location.</change>
 </revisionDesc>
    </teiHeader>
    <!--facsimile element goes here-->
@@ -141,7 +143,7 @@
         
         
                 <div type="commentary">
-                    <p/>
+            <p>Housed in and possessed by the Smith College Museum of Art.</p>
                 </div>
             
         

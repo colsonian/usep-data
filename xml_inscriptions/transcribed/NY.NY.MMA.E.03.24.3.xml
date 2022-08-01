@@ -138,6 +138,8 @@
 <change when="2021-02-24" who="Elli Mylonas">Change instrumentum to instrumentum.other</change>
             <change when="2021-04-07" who="Itamar Levin">Adding a second inscription,
                 bibliography, provenance, dating criteria, and photo</change>
+            <change when="2022-07-26" who="Colin Olson">Updated the Commentary for clarity and accuracy after consulting
+                "Richter, GERB, 271-72".</change>
 </revisionDesc>
 
     </teiHeader>
@@ -182,8 +184,8 @@
         
                 <div type="commentary">
                     <p>Towards the end of the fourth century BCE, the handle—which was previously
-                    formed by a tang consisted of wood or bone, was cast in one piece with the disk,
-                    and grew longer with time (see Richter, GERB, 271-72)</p>
+                    formed by encasing the tang within a wooden or bone component—was cast in one
+                    piece with the disk and grew longer with time (see Richter, GERB, 271-72).</p>
                 </div>
             
         

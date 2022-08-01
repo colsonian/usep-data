@@ -127,6 +127,8 @@
       <change when="2020-10-20" who="Scott J. DiGiulio">Relocated letter dimensions to proper place</change><change when="2021-02-23" who="Elli Mylonas">Change impressed.inscribed.carved to inscribed</change>
          <change when="2022-02-14" who="Sophia Papandonatou">edited metadaga and transcription,
             updated collection, added translation </change>
+         <change when="2022-07-27" who="Colin Olson">Added information to the commentary about the
+            item's current location.</change>
 </revisionDesc>
    </teiHeader>
   
@@ -166,6 +168,7 @@
                 <div type="commentary">
             <p>"e" used for "ae" in lines 2 and 8.</p>
                    <p>Line 5: te, del. Gatti. Possibly et?</p>
+                   <p>Last reported as being housed in the Classics seminar room in the Nielson Library (presumably the "Caverno Room").</p>
          </div>
             
         

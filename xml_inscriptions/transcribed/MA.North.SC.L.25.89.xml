@@ -169,6 +169,8 @@
             <change when="2015-07-20" who="Scott J. DiGiulio">Initial Encoding</change>
         <change when="2020-10-20" who="Scott J. DiGiulio">Relocated letter dimensions to proper place</change><change when="2020-10-20" who="Scott J. DiGiulio">Relocated letter dimensions to proper place</change><change when="2021-02-23" who="Elli Mylonas">Change impressed.inscribed.carved to inscribed</change>
             <change when="2022-02-11" who="Sophia Papandonatou">updated Smith College link, added translation and commentary</change>
+            <change when="2022-07-27" who="Colin Olson">Added information to the commentary about
+                the item's current location.</change>
 </revisionDesc>
 
     </teiHeader>
@@ -217,6 +219,8 @@
                     A "Y" would be extremely unusual in that position, in front of a nomen. "V" as
                     an abbreviation for  "vivus" in front of a name is formulaic and is also often
                     carved in small, as it is here.</p>
+                    <p>Last reported as being housed in the Neilson Library (presumably in the
+                    "Caverno Room").</p>
               </div>
             
         

@@ -187,6 +187,8 @@
             <change when="2015-07-21" who="Scott J. DiGiulio">Initial Encoding</change>
         <change when="2020-10-20" who="Scott J. DiGiulio">Relocated letter dimensions to proper place</change><change when="2020-10-20" who="Scott J. DiGiulio">Relocated letter dimensions to proper place</change><change when="2021-03-24" who="Elli Mylonas">Change clay.brick to clay.terracotta</change>
             <change when="2022-02-15" who="Sophia Papandonatou">updated SC link</change>
+            <change when="2022-07-27" who="Colin Olson">Added information to the commentary about
+                the item's current location.</change>
 </revisionDesc>
 
     </teiHeader>
@@ -218,7 +220,7 @@
         
         
                 <div type="commentary"><!-- notes go here -->
-            <p/></div>
+            <p>Last reported as being housed in the "Caverno Room" on the third floor of the Nielson Library.</p></div>
             
         
         

@@ -155,6 +155,8 @@
         <revisionDesc>
             <change when="2015-07-20" who="Scott J. DiGiulio">Initial Encoding</change>
         <change when="2021-02-23" who="Elli Mylonas">Change impressed.inscribed.carved to inscribed</change>
+            <change when="2022-07-27" who="Colin Olson">Added information to the commentary about
+                the item's current location.</change>
 </revisionDesc>
 
     </teiHeader>
@@ -190,7 +192,9 @@
         
         
                 <div type="commentary"><!-- notes go here -->
-            <p/></div>
+            <p>Last reported as being possessed by the Smith College Department of Classics
+                    (presumably held in the "Caverno Room" on the third floor of the Nielson Library
+                    along with other departmental holdings).</p></div>
             
         
         

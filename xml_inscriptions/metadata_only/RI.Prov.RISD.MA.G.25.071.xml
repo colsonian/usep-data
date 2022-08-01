@@ -7,7 +7,7 @@
                 that is based on the collection's accession number and can contain characters such as ? * # +  / and [space].
             -->
             <titleStmt>
-                <title>RI.Prov.RISD.MA.G.25.071</title>
+                <title>RI.Prov.RISD.MA.E.25.071</title>
             </titleStmt>
             <!-- *************************************  <publicationStmt>  *********************************
                 <idno>: Repeat the value that is in <title>.
@@ -17,7 +17,8 @@
             <publicationStmt>
                
                 <authority>Brown University</authority> 
-                <idno type="USEpigraphy" xml:id="RI.Prov.RISD.MA.G.25.071">RI.Prov.RISD.MA.G.25.071</idno>
+                <idno type="USEpigraphy" xml:id="RI.Prov.RISD.MA.E.25.071"
+                    >RI.Prov.RISD.MA.E.25.071</idno>
             </publicationStmt>
             <!--  *************************************  <sourceDesc>  ********************************* -->
             <sourceDesc>
@@ -44,12 +45,12 @@
                     
                     <!--  *************************************  <msContents>  *********************************    -->
                     <msContents>
-                        <textLang mainLang="grc"/>
+                        <textLang mainLang="ett"/>
                         <!-- arc, grc, he, lat, und (unknown),  zxx (non-linguistic content) -->
                         <msItem class="#label">
                             <!-- short summary of the content of an inscription -->
                             <p>Circular bronze mirror with inscriptions and pictorial
-                                        decorations</p>
+                                decorations</p>
                         </msItem>
                     </msContents>
                     
@@ -178,6 +179,8 @@
             <change when="2014-12-08" who="Darrel Janzen">Initial Entry</change>
             <change when="2015-09-21" who="Scott J. DiGiulio">Cleaned and updated metadata, added bibliography, added image links</change>
             <change when="2017-03-16" who="Scott J. DiGiulio">Removed NoImage.jpg placeholder</change>
+            <change when="2022-07-26" who="Colin Olson">Changed Title and USEP ID to match new
+                language code (Etruscan).</change>
         </revisionDesc>
 
     </teiHeader>

@@ -7,7 +7,7 @@
                 that is based on the collection's accession number and can contain characters such as ? * # +  / and [space].
             -->
             <titleStmt>
-                <title>RI.Prov.RISD.MA.G.23.350</title>
+                <title>RI.Prov.RISD.MA.E.23.350</title>
             </titleStmt>
             <!-- *************************************  <publicationStmt>  *********************************
                 <idno>: Repeat the value that is in <title>.
@@ -17,7 +17,8 @@
             <publicationStmt>
                
                 <authority>Brown University</authority> 
-                <idno type="USEpigraphy" xml:id="RI.Prov.RISD.MA.G.23.350">RI.Prov.RISD.MA.G.23.350</idno>
+                <idno type="USEpigraphy" xml:id="RI.Prov.RISD.MA.E.23.350"
+                    >RI.Prov.RISD.MA.E.23.350</idno>
             </publicationStmt>
             <!--  *************************************  <sourceDesc>  ********************************* -->
             <sourceDesc>
@@ -44,7 +45,7 @@
                     
                     <!--  *************************************  <msContents>  *********************************    -->
                     <msContents>
-                        <textLang mainLang="grc"/>
+                        <textLang mainLang="ett"/>
                         <!-- arc, grc, he, lat, und (unknown),  zxx (non-linguistic content) -->
                         <msItem class="#label">
                             <!-- short summary of the content of an inscription -->
@@ -172,6 +173,8 @@
         <revisionDesc>
             <change when="2014-12-08" who="Darrel Janzen">Initial Entry</change>
             <change when="2015-09-22" who="Scott J. DiGiulio">Updated and cleaned metadata, added bibliography, added image link</change>
+            <change when="2022-07-26" who="Colin Olson">Changed Title and USEP ID to fit the
+                corresponding new language code (for Etruscan)</change>
         </revisionDesc>
 
     </teiHeader>

@@ -270,6 +270,8 @@
             <change when="2015-07-29" who="Scott J. DiGiulio">Small changes to transcription (certainty, added possible restoration in line 3, possible reading in line 1); changed dimensions based on examination of image</change>
         <change when="2021-02-23" who="Elli Mylonas">Change impressed.inscribed.carved to inscribed</change>
             <change when="2022-02-11" who="Sophia Papandonatou">updated Smith College Link</change>
+            <change when="2022-07-27" who="Colin Olson">Added information to the commentary about
+                the item's current location.</change>
 </revisionDesc>
 
     </teiHeader>
@@ -310,7 +312,7 @@
         
         
                 <div type="commentary">
-                    <p/>
+                    <p>Last reported as being possessed by the Smith College Department of Classics (presumably held in the "Caverno Room" on the third floor of the Nielson Library along with other departmental holdings).</p>
                 </div>
             
         

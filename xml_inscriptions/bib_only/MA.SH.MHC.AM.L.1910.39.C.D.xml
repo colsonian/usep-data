@@ -15,28 +15,28 @@ changes: correct handling of provenance information
         <fileDesc>
 
             <titleStmt>
-                <title>CA.Malibu.JPGM.P.81.AA.143</title>
+                <title>MA.SH.MHC.AM.L.1910.39.C.D</title>
             </titleStmt>
 
             <publicationStmt>
                 <authority>Brown University</authority>
-                <idno type="USEpigraphy" xml:id="CA.Malibu.JPGM.P.81.AA.143">CA.Malibu.JPGM.P.81.AA.143</idno>
+                <idno type="USEpigraphy" xml:id="MA.SH.MHC.AM.L.1910.39.C.D">MA.SH.MHC.AM.L.1910.39.C.D</idno>
             </publicationStmt>
 
             <sourceDesc>
                 <!--  *************************************  <msDesc>  ********************************* -->
                 <msDesc>
                     <msIdentifier>
-                        <region>CA</region>
-                        <settlement>Malibu</settlement>
-                        <institution>JPGM</institution>
-                        <repository></repository>
-                        <idno>81.AA.143</idno>
+                        <region>MA</region>
+                        <settlement>SH</settlement>
+                        <institution>MHC</institution>
+                        <repository>AM</repository>
+                        <idno>1910.39.C.D</idno>
                     </msIdentifier>
 
                     <!--  *************************************  <msContents>  *********************************    -->
                     <msContents>
-                        <textLang mainLang="phn" otherLangs=""/>
+                        <textLang mainLang="lat" otherLangs=""/>
                         <!-- arc, grc, he, lat, und (unknown),  zxx (non-linguistic content) -->
                         <msItem class="">
                         <!-- short summary of the content of an inscription -->
@@ -106,9 +106,18 @@ changes: correct handling of provenance information
                 <!--  *************************************  <listBibl>  *********************************  -->
                 <listBibl>
                     <bibl>
+                        <ptr type="rest-of-bibl" target="#CIL_XII"/>
+                        <biblScope unit="item">5678.1</biblScope>
+                    </bibl>
+                    <bibl>
+                        <ptr type="rest-of-bibl" target="#CIL_XV"/>
+                        <biblScope unit="item">1 693</biblScope>
+                    </bibl>
+                    <bibl>
                         <ref type="external"
-                            target="https://www.getty.edu/art/collection/object/105YYT">JPGM Web
-                            Entry</ref>
+                            target="https://museums.fivecolleges.edu/detail.php?museum=all&amp;t=objects&amp;type=all&amp;f=&amp;s=1910.39.C.D&amp;record=0"
+                            >Five Colleges and Historic Deerfield Museum Consortium - Online
+                            Collections Databse</ref>
                     </bibl>
                 </listBibl>
             </sourceDesc>

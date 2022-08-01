@@ -93,10 +93,6 @@
                 <!--  *************************************  <listBibl>  *********************************  -->
                 <listBibl>
                     <bibl>
-                        <ptr type="rest-of-bibl" target="#"/>
-                        <biblScope unit="page">00</biblScope>
-                    </bibl>
-                    <bibl>
                         <ref type="external" target="http://www.getty.edu/art/collection/objects/9618/unknown-maker-scarab-etruscan-4th-century-bc/?artview=dor38303">External Reference JPGM web page </ref>
                     </bibl>
                 </listBibl>
@@ -125,6 +121,8 @@
             <change when="2019-12-04" who="Gaia Gianni">Initial Encoding</change>
         <change when="2021-02-23" who="Elli Mylonas">Change impressed.inscribed.carved to inscribed</change>
 <change when="2021-02-24" who="Elli Mylonas">Change instrumentum to instrumentum.other</change>
+            <change when="2022-08-01" who="Colin Olson">Removed superfluous element within
+                bibliography</change>
 </revisionDesc>
 
     </teiHeader>

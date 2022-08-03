@@ -40,6 +40,10 @@
 <bibl>
 <ref type="external" target="http://www.edr-edr.it/edr_programmi/res_complex_comune.php?do=book&amp;id_nr=EDR143167">EDR143167</ref>
 </bibl>
+               <bibl>
+                  <ptr type="rest-of-bibl" target="#Bodel_Tracy"/>
+                  <biblScope unit="page">150</biblScope>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
@@ -54,6 +58,7 @@
       <revisionDesc>
          <change when="2010-09-29" who="Center for Digital Scholarship">Converted to September 2009 EpiDoc</change>
          <change when="2011-05-13" who="Elli Mylonas">More tweaks for bib only inscriptions</change>
+         <change when="2022-08-01" who="Colin Olson">Added the "Bodel_Tracy" citation.</change>
       </revisionDesc>
    </teiHeader>
    <!--facsimile element goes here--><text>

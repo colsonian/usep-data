@@ -25,7 +25,7 @@
                <msContents>
                   <textLang mainLang="grc" otherLangs=""/>
                   <msItem class="#funerary.epitaph">
-                     <p>Funerary stele</p>
+                     <p>epitaph for Menemachos</p>
                   </msItem>
                </msContents>
                <physDesc>
@@ -35,7 +35,7 @@
                   <objectDesc ana="#stele">
                      <supportDesc ana="#stone.marble">
                         <support>
-                           <p> </p>
+                           <p> marble stele</p>
                            <dimensions type="surface" unit="cm">
                               <height>70.5</height>
                               <width>47</width>
@@ -43,12 +43,12 @@
                            </dimensions>
                         </support>
                         <condition ana= "#complete.intact">
-                           <p/>
+                           <p>worn edges and discoloration are only noticeable signs of aging </p>
                         </condition>
                      </supportDesc>
                      <!--  *************************************  <layoutDesc>  ********************************* -->
                      <layoutDesc>
-                        <layout columns="1" writtenLines="2">
+                        <layout writtenLines="2">
                            <p/>
                         </layout>
                      </layoutDesc>
@@ -63,7 +63,9 @@
                   <!--  *************************************  <decoDesc>  *********************************     -->
                   <decoDesc>
                      <decoNote>
-                        <p/>
+                        <p>funerary banquet scene which features a tripod, (presumably) the figure of
+                           Menemachos, the deceased's relations, and a wreath is framed in recess
+                        </p>
                      </decoNote>
                   </decoDesc>
                </physDesc>
@@ -109,6 +111,7 @@
          <change when="2011-05-13" who="EM">More tweaks for bib only inscriptions</change>
          <change when="2020-05-10" who="GG">Added metadata, external reference and image</change>
       <change when="2021-02-23" who="Elli Mylonas">Change impressed.inscribed to inscribed</change>
+         <change when="2022-08-17" who="Colin Olson">Changed "Summary Description of Form" and "Short Summary of Material and Support", added detail regarding condition, removed entry for number of columns, added description of decoration, and added transcription, added translation. </change>
 </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -120,7 +123,14 @@
    <text>
       <body>
          <div type="edition">
-         <!--The marked up transcription goes here, surrounded by <ab> </ab> elements-->
+          <ab>
+            <lb n="1"/><persName key="Menemachos">Μενέμαχε</persName> <persName key="Diphilos">Διφίλου</persName>
+            <lb n="2"/>χρηστὲ χαῖρε.
+          </ab>
+         <div type="translation">
+          <p>Farewell worthy Menemachos, son of Diphilos.</p>  
+         </div>
+            
          </div><div type="bibliography"> <xi:include  href="http://library.brown.edu/usep_data/resources/titles.xml"> <xi:fallback> <p>US Epigraphybibliography</p> </xi:fallback> </xi:include> </div>
 
        </body>

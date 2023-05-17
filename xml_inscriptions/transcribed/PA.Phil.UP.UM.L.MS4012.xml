@@ -24,7 +24,7 @@
                </msIdentifier>
                <msContents>
                   <textLang mainLang="lat" otherLangs=""/>
-                  <msItem class="#agonistic_ludic">
+                  <msItem class="#label">
                      <p>Mosaic inscription</p>
                   </msItem>
                </msContents>
@@ -35,20 +35,21 @@
                   <objectDesc ana="#arch_element">
                      <supportDesc ana="#material_other">
                         <support>
-                           <p> </p>
+                           <p> opus vermiculatum mosaic with tesserae of varying sizes</p>
                            <dimensions type="surface" unit="cm">
                               <height>205.5</height>
                               <width>134.5</width>
                               <depth>32 </depth>
                            </dimensions>
                         </support>
-                        <condition ana= "#complete.intact">
-                           <p/>
+                        <condition ana="#complete.broken">
+                           <p>it is probable that the extant object does not represent in full the
+                              mosaic of which this scene may have been a part</p>
                         </condition>
                      </supportDesc>
                      <!--  *************************************  <layoutDesc>  ********************************* -->
                      <layoutDesc>
-                        <layout columns="1" writtenLines="1">
+                        <layout writtenLines="1">
                            <p/>
                         </layout>
                      </layoutDesc>
@@ -63,7 +64,10 @@
                   <!--  *************************************  <decoDesc>  *********************************     -->
                   <decoDesc>
                      <decoNote>
-                        <p/>
+                        <p>depicts Theseus (and perhaps a rescued youth) sailing away from the
+                           labyrinth and Minotaur of Crete; the scene presumably would have extended
+                           beyond the preserved image, perhaps with a depiction of the labyrinth
+                           itself and a continued rendering of the guilloche border</p>
                      </decoNote>
                   </decoDesc>
                </physDesc>
@@ -77,8 +81,9 @@
                   </summary>
                   
                   <origin>
-                     <date evidence="unspecified" notBefore="0200" notAfter="0250">early 3rd century CE</date>
-                     <placeName ref="africa">Carthage</placeName>
+                     <date evidence="unspecified" notBefore="0200" notAfter="0250">early 3rd century
+                        CE</date>
+                     <placeName ref="africa">Utica</placeName>
                   </origin>
                   
                   
@@ -96,6 +101,12 @@
                <bibl>
                   <ref type="external" target="https://www.penn.museum/collections/object/340922"
                      >Museum External Reference</ref>
+               </bibl>
+               <bibl>
+                  <ref type="external"
+                     target="https://www.penn.museum/sites/expedition/setting-the-record-straight/"
+                     >"Setting the Record Straight: The Contorted History of the Museum's Theseus
+                     Mosaic" in Expedition Magazine Web Entry</ref>
                </bibl>
             </listBibl>
          </sourceDesc>
@@ -115,6 +126,7 @@
             transcription</change>
          <change when="2021-02-04" who="Elli Mylonas">change attribute inset.mosaic to
             mosaic</change>
+         <change when="2022-08-10" who="Colin Olson">changed genre, added "short summary of material and support", removed designation for number of columns, changed information on condition to indicate that this most likely presents part of a larger mosaic, added description of decoration, changed designation for original location (from Carthage to Utica), added Expedition article to bibliography, changed transcription, added translation, and offered commentary.</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -127,10 +139,19 @@
       <body>
          <div type="edition">
          <ab>
-            <lb n="1"/> <expan><abbr>Vinc<ex>tor</ex></abbr></expan> Lusus.  <expan><abbr>Vinc<ex>tor</ex></abbr></expan> Lusus.
+            <lb n="1"/> <name type="cognomen" cert="low"><abbr>V</abbr></name> inclusus <name type="cognomen" cert="low"><abbr>V</abbr></name> inclusus.
          </ab>
+            
+         <div type="translation">
+          <p>V(?) enclosed (in this tomb)</p>
+          </div>
+            
+         <div type="commentary">
+          <p>White, in his "Setting the Record Straight" article, has alluded to the possibility of
+                  this mosaic originating from a funerary context (i.e. the floor of a tomb).</p>
+         </div>
+            
          </div><div type="bibliography"> <xi:include  href="http://library.brown.edu/usep_data/resources/titles.xml"> <xi:fallback> <p>US Epigraphybibliography</p> </xi:fallback> </xi:include> </div>
-
-       </body>
+      </body>
    </text>
 </TEI>
